@@ -2,7 +2,7 @@
 
 # 1 - Kubernetes
 
-Get a Kubernetes Cluster. In this video, I use Docker for Windows.
+Get a Kubernetes Cluster. In this video, I use Docker for Windows..
 If you are new to Kubernetes, checkout my videos [here](https://marceldempers.dev/videos/guides/kubernetes-getting-started)
 
 # 2 - Flux CTL
